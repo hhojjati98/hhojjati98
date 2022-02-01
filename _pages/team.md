@@ -1,5 +1,5 @@
 ---
-title: "Team"
+title: "iSMART Lab - Team"
 layout: gridlay
 excerpt: "Team members"
 sitemap: false
@@ -292,7 +292,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former visitors, BSc students
 
 {% for member in site.data.alumni_bsc %}
 
