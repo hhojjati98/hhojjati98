@@ -293,7 +293,10 @@ permalink: /team/
 {% endif %}
 
 ## Former visitors, BSc/ MSc students
+
 {% for member in site.data.alumni_bsc %}
+
 {{ member.name }}
+
 {% endfor %}
 
