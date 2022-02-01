@@ -70,7 +70,7 @@
 
 
 - title: "Deep Successive Subspace Learning for Data Clustering"
-  image: TBG_ARPES.png
+  image: DSSL.gif
   description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
   authors:  M Sadeghi, N Armanfard
   link:
