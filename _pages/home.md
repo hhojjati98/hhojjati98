@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "iSMART Lab"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "iSMART Lab at McGill University."
 sitemap: false
 permalink: /
 ---
