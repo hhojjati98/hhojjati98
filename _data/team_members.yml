@@ -33,6 +33,16 @@
   number_educ: 2
   education1: Master <a href="https://www.mcgill.ca/ece/">McGill University</a>
   education2: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
+  
+  
+- name: Sébastien Quetin
+  photo: Person.png
+  info: PhD Student(co-supervised), started September 2021
+  email: 
+  number_educ: 1
+  education1: <a href="https://www.insa-toulouse.fr/fr/index.html">INSA Toulouse</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
 
 - name: Dimitrios Sinodinos
   photo: Dimitri.jpg
@@ -43,3 +53,11 @@
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
   education3:
 
+- name: Denzel Guye
+  photo: Person.png
+  info: Master Student (co-supervised), started September 2020
+  email: 
+  number_educ: 1
+  education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
