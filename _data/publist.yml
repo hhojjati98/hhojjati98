@@ -9,6 +9,16 @@
   highlight: 0
   news2:
   
+  - title: "Multistep networks for roll force prediction in hot strip rolling mill"
+  image: final_model-1.png
+  description:  In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill.
+  authors: S Shen, D Guye, X Ma, S Yue, N Armanfard
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2666827021001237
+    display: Machine Learning with Applications, Volume 7 (2022)
+  highlight: 0
+  news2:
+  
 - title: "Deep Clustering with Self-supervision using Pairwise Data Similarities"
   image: final_model-1.png
   description: In this paper we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). The proposed method consists of two successive phases. In the first phase we propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster, employing an autoencoder which is trained using cluster-specific losses.
