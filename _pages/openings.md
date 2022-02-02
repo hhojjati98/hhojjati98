@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "iSMART Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,33 +8,21 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
+- I am looking for PhD students in the area of machine learning and its applications. If you are interested and have a proven publication record, please ping me.
+- I am looking for M.Sc. students. Contact me if you can demonstrate prior experience and high-level skill in machine learning.
+
+### Applications for PhD and MSc positions
+MSc and PhD applicants who are interested in my research are encouraged to contact me via email. The body of the email MUST contain your name, degree you are applying for (M.Sc./PhD), your degree(s) information (university, GPA), whether you are domestic or international student, IELTS/TOEFL/GRE score (if applicable), your three recent publications (if applicable), whether or not you have applied to the Department of Electrical and Computer Engineering. Attach your complete academic CV and transcript(s). Please keep in mind that, due to the volume of emails that I receive, I may not reply to all.
 
 
+The ECE department deadlines for the Fall Semester is December 15th for both international and domestic applicants; and for the Winter Semester is August 1st for international applicants and October 15th for domestic applicants. For more information please read here.
 
 
-We are always looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-### Past open positions
-
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf), 
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+I strive to embody the values of respect, collaboration and diversity, and have a strong commitment to equity. The diversity of my Lab is at the core of our innovation and creativity and strengthens our research excellence. I seek qualified candidates who share our commitment to equity, diversity and inclusion. While all qualified candidates are invited to apply, I particularly welcome applications from women, persons with disabilities, First Nations, Métis and Inuit peoples, members of visible minorities, and LGBTQ+ persons.
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+### Bsc students
+We have some projects for undergraduate honours thesis in the area of machine learning and computer vision. Contact Prof. Armanfard if you are an undergraduate student at McGill and would like to have your honours thesis with us.
 
 
 <figure>
