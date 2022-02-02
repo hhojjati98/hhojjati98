@@ -30,5 +30,5 @@ We have some projects for **undergraduate honours thesis** in the area of machin
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/McGill.jpeg" width="80%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/McGill.jpeg" width="95%">
 </figure>
