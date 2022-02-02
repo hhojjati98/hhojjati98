@@ -29,13 +29,13 @@
   news2:
 
 - title: "Self-Supervised Acoustic Anomaly Detection Via Contrastive Learning"
-  image: TBG_SL.png
+  image: ICASSP.png
   description: For the first time, we propose a contrastive learning-based framework that is suitable for acoustic anomaly detection. Since most existing contrastive learning approaches are targeted toward images, the effect of other data transformations on the performance of the algorithm is unknown. Our framework learns a representation from unlabeled data by applying audio-specific data augmentations.
   authors: H Hojjati, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/SELF-SUPERVISED_ACOUSTIC_ANOMALY_DETECTION_VIA_CONTRASTIVE_LEARNING/16828363/files/31153600.pdf
     display:  TechRxiv (2021)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "IDECF: Improved Deep Embedding Clustering With Deep Fuzzy Supervision"
