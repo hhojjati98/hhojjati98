@@ -14,7 +14,7 @@ Here are some themes and techniques that we currently work on:
 
 **Active Learning**
 
-**Epileptic Zone Detection"**.
+**Epileptic Zone Detection**
 
 **Deep Anomaly Detection**
 
