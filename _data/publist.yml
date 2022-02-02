@@ -1,14 +1,3 @@
-
-- title: "Attentive Task Interaction Network for Multi-Task Learning"
-  image: TBG_ARPES.png
-  description: we propose the Attentive Task Interaction Network (ATI-Net). ATI-Net employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder. 
-  authors: D Sinodinos, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2201.10649
-    display: arXiv:2201.10649 (2022)
-  highlight: 0
-  news2:
-  
   - title: "Multistep networks for roll force prediction in hot strip rolling mill"
   image: final_model-1.png
   description:  In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill.
