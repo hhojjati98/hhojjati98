@@ -58,13 +58,13 @@
   highlight: 1
 
 - title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
-  image: TBG_ARPES.png
+  image: DASVDD.png
   description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. We propose a customized anomaly score which is a combination of autoencoder's reconstruction error and distance of the lower-dimensional representation of a sample from the center of the enclosing hyper-sphere.
   authors: H Hojjati, N Armanfard
   link:
     url: https://arxiv.org/abs/2106.05410
     display: arXiv:2106.05410 (2021)
-  highlight: 0
+  highlight: 1
   news2:
 
 
