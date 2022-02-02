@@ -24,7 +24,7 @@ The ECE department deadlines for the Fall Semester is **December 15th** for both
 I strive to embody the values of respect, collaboration and diversity, and have a strong commitment to equity. The diversity of my Lab is at the core of our innovation and creativity and strengthens our research excellence. I seek qualified candidates who share our commitment to equity, diversity and inclusion. While all qualified candidates are invited to apply, I particularly welcome applications from women, persons with disabilities, First Nations, Métis and Inuit peoples, members of visible minorities, and LGBTQ+ persons.
 
 
-### Bsc students
+### BSc students
 
 We have some projects for **undergraduate honours thesis** in the area of machine learning and computer vision. Contact Prof. Armanfard if you are an undergraduate student at McGill and would like to have your honours thesis with us.
 
