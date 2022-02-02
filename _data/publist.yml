@@ -1,23 +1,23 @@
-  - title: "Multistep networks for roll force prediction in hot strip rolling mill"
-  image: final_model-1.png
-  description:  In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill.
-  authors: S Shen, D Guye, X Ma, S Yue, N Armanfard
+- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+  image: Pairs3.png
+  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S2666827021001237
-    display: Machine Learning with Applications, Volume 7 (2022)
+    url: https://www.science.org/doi/10.1126/science.abe3987
+    display: Science 374, 608 (2021)
+  highlight: 1
+  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+
+- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+  image: TBG_SL.png
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+    display:  arXiv:2107.14716 (2021)
   highlight: 0
   news2:
-  
-  - title: "Attentive Task Interaction Network for Multi-Task Learning"
-  image: final_model-1.png
-  description: we propose the Attentive Task Interaction Network (ATI-Net). ATI-Net employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder.
-  authors: D Sinodinos, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2201.10649
-    display: arXiv:2201.10649 (2022)
-  highlight: 0
-  news2:
-  
+
 - title: "Deep Clustering with Self-supervision using Pairwise Data Similarities"
   image: final_model-1.png
   description: In this paper we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). The proposed method consists of two successive phases. In the first phase we propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster, employing an autoencoder which is trained using cluster-specific losses.
