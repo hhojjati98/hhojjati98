@@ -70,7 +70,7 @@ Here are some themes and techniques that we currently work on:
 
 
 
-We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en).
+We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), and [SCALE AI](https://www.scaleai.ca/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" style="width: 110px">
