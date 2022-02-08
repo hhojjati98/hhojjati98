@@ -60,7 +60,7 @@ Here are some themes and techniques that we currently work on:
 
 **Epileptogenic Zone Detection:** In this project, we aim to develop a machine learning model that automatically analyzes the background information collected iEEG to determine whether the corresponding intracerebral channels are located in the brain tissue belonging to the epileptogenic zone, without accessing seizure on set zone (SOZ). We will tackle the EZ identification problem by using advanced representation learning models. Our goal is to develop an algorithm which can aid epileptologists in identifying brain areas to be resected during epilepsy surgery.
 
-**Deep Anomaly Detection**
+**Deep Anomaly Detection** Anomaly Detection is the task of identifying rare items, events or observations which deviate significantly from the majority of the data. In recent years, anomaly detection researchers have turned their attention to developing deep learning based models and managed to come up with some efficient deep models. In this project, our goal is to develop novel deep anomaly detection methods using state-of-the-art models, such as contrastive learning.
 
 
 **Deep Clustering**
