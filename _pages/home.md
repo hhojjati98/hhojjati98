@@ -25,10 +25,10 @@ Here are some themes and techniques that we currently work on:
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/project proposal.PNG" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/network_fig.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
@@ -54,11 +54,11 @@ Here are some themes and techniques that we currently work on:
 </div>
 
 
-**Time-Series Anomaly Detection**  In this project, we aim to develop a self-supervised representation learning framework for time-series data. Our work will be based on state-of-the-art self-supervised algorithms, such as contrastive learning, and we will try to make it suitable for time-series data by incorporating architectures such as temporal convolutional networks (TCNs), Long Short-Term Memory (LSTM), and ideas such as self-attention. 
+**Time-Series Anomaly Detection:**  In this project, we aim to develop a self-supervised representation learning framework for time-series data. Our work will be based on state-of-the-art self-supervised algorithms, such as contrastive learning, and we will try to make it suitable for time-series data by incorporating architectures such as temporal convolutional networks (TCNs), Long Short-Term Memory (LSTM), and ideas such as self-attention. 
 
-**Active Learning**
+**Multitask Learning with Attention for Pose Estimation and Activity Recognition:** Multitask learning (MTL) has recently gained a lot of popularity as a learning paradigm that can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning. Our research involves developing novel MTL algorithms that can achieve state-of-the-art performance on various computer vision tasks. Some of the main tasks we will be focusing on are pose estimation and activity recognition. 
 
-**Epileptic Zone Detection**
+**Epileptogenic Zone Detection:** In this project, we aim to develop a machine learning model that automatically analyzes the background information collected iEEG to determine whether the corresponding intracerebral channels are located in the brain tissue belonging to the epileptogenic zone, without accessing seizure on set zone (SOZ). We will tackle the EZ identification problem by using advanced representation learning models. Our goal is to develop an algorithm which can aid epileptologists in identifying brain areas to be resected during epilepsy surgery.
 
 **Deep Anomaly Detection**
 
@@ -77,4 +77,5 @@ We are grateful for funding from McGill University, Natural Sciences and Enginee
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FRQNT.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MITACS.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SCALE.jpg" style="width: 110px">
 </figure>
